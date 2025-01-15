@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LoaTer
-- 👀 I am a pioneer in creating unreadable, ridiculous code.
+- 👀 I specialise in creating unreadable, ridiculous code.
 - 🌱 Languages: Python, Java, JS, basic C++
 - 📫 How to reach me: Discord (loater)
 
