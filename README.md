@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LoaTer
-- 👀 I’m interested in coding challenges.
-- 🌱 I’m currently learning node.js, Java
-- 💞️ I’m looking to collaborate on nothing right now
+- 👀 I am a pioneer in creating unreadable, ridiculous code.
+- 🌱 Languages: Python, Java, JS, basic C++
 - 📫 How to reach me: Discord (loater)
 
 String string = new String("String");
