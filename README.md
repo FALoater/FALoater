@@ -2,6 +2,7 @@
 - 👀 I specialise in creating unreadable, ridiculous code.
 - 🌱 Languages: Python, Java, JS, basic C++
 - 📫 How to reach me: Discord (loater)
+- 🐍 List comps go brr
 
 String string = new String("String");
 <!---
